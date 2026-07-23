@@ -1,20 +1,55 @@
-# Hangman Game
+# CodeAlpha Python Programming Internship
 
-This is a simple text-based Hangman game created using Python.
+This repository contains the projects completed during my Python Programming Internship at CodeAlpha.
 
-## Features
+## Task 1: Hangman Game
 
-- Randomly selects a word from a list of predefined words
-- Allows the player to guess one letter at a time
-- Maximum 6 incorrect guesses
+A simple text-based Hangman game developed using Python.
+
+### Features
+- Uses a list of predefined words
+- Player guesses one letter at a time
+- Maximum 6 incorrect guesses allowed
 - Displays correct and incorrect guesses
-- Shows the word when the game is over
+- Shows the word if the player loses
+
+### Concepts Used
+- Python lists
+- Strings
+- `random` module
+- `while` loops
+- `if-else` statements
+- User input
+
+---
+
+## Task 2: Stock Portfolio Tracker
+
+A simple Python program that calculates the total investment value based on stock names and quantities.
+
+### Features
+- Predefined stock prices using a dictionary
+- User enters stock name and quantity
+- Calculates investment for each stock
+- Calculates total investment value
+- Handles invalid stock names and quantities
+
+### Concepts Used
+- Python dictionaries
+- Loops
+- User input
+- Conditional statements
+- Exception handling
+- Basic arithmetic
+
+---
 
 ## Technologies Used
 
 - Python
-- Random module
-- While loop
-- If-else conditions
-- Lists
-- Strings
+- Visual Studio Code
+- GitHub
+
+## Author
+
+Ayush Gupta
