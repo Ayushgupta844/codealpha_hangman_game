@@ -1,0 +1,20 @@
+# Hangman Game
+
+This is a simple text-based Hangman game created using Python.
+
+## Features
+
+- Randomly selects a word from a list of predefined words
+- Allows the player to guess one letter at a time
+- Maximum 6 incorrect guesses
+- Displays correct and incorrect guesses
+- Shows the word when the game is over
+
+## Technologies Used
+
+- Python
+- Random module
+- While loop
+- If-else conditions
+- Lists
+- Strings
